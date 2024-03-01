@@ -1,0 +1,10 @@
+Title: Gremlins 2: The New Batch
+Year: 1990
+Genre: Comedy
+Runtime: 1 hour, 46 minutes
+Director: Joe Dante
+Producer: Michael Finnell
+Writers: Charles S. Haas, Chris Columbus
+Synopsis: The Gremlins are back, and this time, they've taken control of a New York City media mogul's high-tech skyscraper.
+Image: https://m.media-amazon.com/images/M/MV5BZGE3MTA3OWQtYzVjYi00MjkwLThlZTQtNWUzOGVlYjEwMzBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg
+Rating: PG-13

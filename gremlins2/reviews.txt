@@ -1,0 +1,7 @@
+score: 6
+text: This sequel is more insane and incomprehensible than the original./score: 8
+text: The movie is almost a parody of the first one, and it is filled to the brim with satire./score: 5
+text: It is an incredibly indulgent film, not shying away from gore and extended musical numbers./score: 7
+text: The intricate puppets and hilarious gags make it enjoyable, despite how bizarre it is./score: 6
+text: The strange imagery and weird new gremlins will stick with you, for better or for worse./score: 7
+text: It's hard to believe that this movie exists. This is Joe Dante's uncensored vision.

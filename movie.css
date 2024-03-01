@@ -1,0 +1,58 @@
+
+.movie_info {
+    padding-left: 20px;
+}
+
+.left_column {
+    width: 20%;
+    border: 3px solid white;
+    float: left;
+}
+
+.right_column {
+    width: 70%;
+    padding: 20px;
+    float: left;
+}
+
+.review {
+    float: left;
+    width: 31%;
+    border: 3px solid white;
+    padding: 5px;
+}
+
+.score {
+    width: 5%;
+    float: left;
+    padding: 5px;
+}
+
+.review_text {
+    width: 80%;
+    float: right;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: rgb(230, 224, 235);
+    font-family: 'Century Gothic';
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+td {
+    padding-right: 20px;
+    padding-bottom: 5px;
+}

@@ -1,0 +1,7 @@
+score: 10
+text: Sergio Leone's timeless Western is both a criticism of and the finest example of the genre./score: 9
+text: The movie mixes gruesome violence with emotional heights and insightful commentary./score: 9
+text: The unique score is perhaps the best part of the film, creating such a unique tone./score: 10
+text: A masterclass in subtle cinematography and visual storytelling. The visuals will stick with you long after you watch it./score: 9
+text: Incredible acting and stunts. Clint Eastwood gives his most memorable performace as Blondie./score: 10
+text: The third movie in Sergio Leone's spaghetti western trilogy, The Good, the Bad, and the Ugly is arguably his best.
